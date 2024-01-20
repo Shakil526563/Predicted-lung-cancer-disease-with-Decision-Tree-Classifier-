@@ -1,0 +1,1 @@
+This code is a basic example of using a decision tree for cancer prediction and visualizing the decision-making process. Adjusting the max_depth parameter can impact the complexity of the tree and its ability to capture the underlying patterns in the data.
